@@ -1,0 +1,338 @@
+{
+  "seller": [
+    {
+      "name": "swati",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "swati",
+      "password": "password",
+      "email": "swa@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "teja",
+      "password": "1233",
+      "email": "tej@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "password": "123",
+      "email": "abc",
+      "id": 4
+    },
+    {
+      "name": "aa",
+      "password": "aa",
+      "email": "aa",
+      "id": 5
+    },
+    {
+      "name": "bb",
+      "password": "bb",
+      "email": "bb",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone",
+      "price": "100000",
+      "category": "mobile",
+      "color": "Grey",
+      "description": "Mobile iPhone",
+      "image": "https://img4.gadgetsnow.com/gd/images/products/additional/large/G390864_View_1/mobiles/smartphones/apple-iphone-14-pro-max-512-gb-deep-purple-6-gb-ram-.jpg",
+      "id": 1
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "id": 2
+    },
+    {
+      "name": "Sumsung",
+      "price": "50000",
+      "category": "Fridge",
+      "color": "Grey",
+      "description": "abc",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/refrigerator-new/y/u/p/-original-imagg4ggjuc4zmzx.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "name": "Sumsung TV",
+      "price": "100000",
+      "category": "TV",
+      "color": "Red",
+      "description": "xyz",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ua32t4340akxxl/gallery/in-hd-tv-t4340-ua32t4340akxxl-454444131?$1300_1038_PNG$",
+      "id": 4
+    },
+    {
+      "name": "Sony",
+      "price": "30000",
+      "category": "TV",
+      "color": "Multi Color",
+      "description": "pqr",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ZgvwiDDO30xSgfjWAyd7WALfuUy1GuOt2WoMEJhKSx0d_T1rT8nyVMO5MI9pIilHVVE&usqp=CAU",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "anil",
+      "id": 1
+    },
+    {
+      "name": "pitter",
+      "email": "tej@gmail.com",
+      "password": "pittere",
+      "id": 2
+    },
+    {
+      "name": "rani",
+      "email": "tej@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "iPhone",
+      "price": "100000",
+      "category": "mobile",
+      "color": "Grey",
+      "description": "Mobile iPhone",
+      "image": "https://img4.gadgetsnow.com/gd/images/products/additional/large/G390864_View_1/mobiles/smartphones/apple-iphone-14-pro-max-512-gb-deep-purple-6-gb-ram-.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 6
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 7
+    },
+    {
+      "name": "Sumsung",
+      "price": "50000",
+      "category": "Fridge",
+      "color": "Grey",
+      "description": "abc",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/refrigerator-new/y/u/p/-original-imagg4ggjuc4zmzx.jpeg?q=70",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 8
+    },
+    {
+      "name": "iPhone",
+      "price": "100000",
+      "category": "mobile",
+      "color": "Grey",
+      "description": "Mobile iPhone",
+      "image": "https://img4.gadgetsnow.com/gd/images/products/additional/large/G390864_View_1/mobiles/smartphones/apple-iphone-14-pro-max-512-gb-deep-purple-6-gb-ram-.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 12
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 13
+    },
+    {
+      "name": "Sumsung",
+      "price": "50000",
+      "category": "Fridge",
+      "color": "Grey",
+      "description": "abc",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/refrigerator-new/y/u/p/-original-imagg4ggjuc4zmzx.jpeg?q=70",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 14
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 22
+    },
+    {
+      "name": "iPhone",
+      "price": "100000",
+      "category": "mobile",
+      "color": "Grey",
+      "description": "Mobile iPhone",
+      "image": "https://img4.gadgetsnow.com/gd/images/products/additional/large/G390864_View_1/mobiles/smartphones/apple-iphone-14-pro-max-512-gb-deep-purple-6-gb-ram-.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 23
+    },
+    {
+      "name": "Sumsung TV",
+      "price": "100000",
+      "category": "TV",
+      "color": "Red",
+      "description": "xyz",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ua32t4340akxxl/gallery/in-hd-tv-t4340-ua32t4340akxxl-454444131?$1300_1038_PNG$",
+      "quantity": 1,
+      "productId": 4,
+      "userId": null,
+      "id": 26
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 27
+    },
+    {
+      "name": "Sumsung TV",
+      "price": "100000",
+      "category": "TV",
+      "color": "Red",
+      "description": "xyz",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ua32t4340akxxl/gallery/in-hd-tv-t4340-ua32t4340akxxl-454444131?$1300_1038_PNG$",
+      "quantity": 1,
+      "productId": 4,
+      "userId": null,
+      "id": 30
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 32
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 33
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 38
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 39
+    },
+    {
+      "name": "1+",
+      "price": "50000",
+      "category": "mobile",
+      "color": "white",
+      "description": "abcabc",
+      "image": "https://vlebazaar.in/image/cache/catalog/B07HGLBZ9J/OPPO-K3-Aurora-Blue-8GB-RAM-AMOLED-Display-128GB-Storage-3765mAH-Battery-B07HGLBZ9J-550x550.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 40
+    },
+    {
+      "name": "iPhone",
+      "price": "100000",
+      "category": "mobile",
+      "color": "Grey",
+      "description": "Mobile iPhone",
+      "image": "https://img4.gadgetsnow.com/gd/images/products/additional/large/G390864_View_1/mobiles/smartphones/apple-iphone-14-pro-max-512-gb-deep-purple-6-gb-ram-.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 41
+    }
+  ],
+  "orders": [
+    {
+      "name": "aa",
+      "totalPrice": 200000,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "aa",
+      "totalPrice": 200000,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "aa",
+      "totalPrice": 200000,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "aa",
+      "totalPrice": 200000,
+      "userId": 1,
+      "id": 4
+    }
+  ]
+}
