@@ -8,6 +8,7 @@ import { Router } from '@angular/router';
   templateUrl: './cart-page.component.html',
   styleUrls: ['./cart-page.component.scss']
 })
+
 export class CartPageComponent implements OnInit{
 
   cartData:Cart[] |undefined
